@@ -5,3 +5,4 @@ spring:
       path: /console2
 server:
   port: 9001
+  
