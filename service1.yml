@@ -4,5 +4,5 @@ spring:
       enabled: true
       path: /console2
 server:
-  port: 9001
+  port: 8191
   
